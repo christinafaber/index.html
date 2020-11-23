@@ -1,0 +1,13 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: palatino;
+  margin: 2em;
+  background-color: #D5CFE1;
+  text-align: center
+}
+
+h1 {
+  font-style: bold;
+  color: #464655;
+}
